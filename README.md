@@ -11,7 +11,7 @@ Based on https://github.com/google/syzkaller/blob/master/tools/syz-linter/linter
 
 ## LICENSE
 
-MIT
+Apache License 2.0
 
 stringlencompare was created by extracting a part of syz-linter inside syzkaller project.
 
